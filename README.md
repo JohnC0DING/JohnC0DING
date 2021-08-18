@@ -8,4 +8,4 @@ coding in Python, I have not been doing this in an Object Orientated way. In the
 with the class and object related syntax.
 
 ### Contact
-[<a href=" https://www.linkedin.com/in/john-lillistone-851454206/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Icon" style="width:22px;height:22px;"></a>][LinkedIn]
+<a href=" https://www.linkedin.com/in/john-lillistone-851454206/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Icon" width="22px"></a>
