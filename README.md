@@ -8,7 +8,4 @@ coding in Python, I have not been doing this in an Object Orientated way. In the
 with the class and object related syntax.
 
 ### Contact
-[![alt text][image]][hyperlink]
-
-  [hyperlink]: https://www.linkedin.com/in/john-lillistone-851454206/
-  [image]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg (tooltip)
+[<a href=" https://www.linkedin.com/in/john-lillistone-851454206/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Icon" style="width:22px;height:22px;"></a>]
